@@ -2,9 +2,6 @@ import java.text.ParseException;
 import java.util.Date;
 
 public class Event extends Task {
-    /**
-     * An event task.
-     */
     private Date at;
 
     /**

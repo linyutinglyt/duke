@@ -7,9 +7,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class Storage {
-    /**
-     * handles then loading of hard-disk data and saving of the data when task list is updated.
-     */
 
     private String filepath;
     private ArrayList<Task> taskList;
